@@ -15,9 +15,13 @@ Chinese：
 
 ## picture（图片）
 ![](https://github.com/hackersheng/Gesture-Recognition/blob/master/screenshots/TIM%E6%88%AA%E5%9B%BE20181016184830.png)
+derg
 ![](https://github.com/hackersheng/Gesture-Recognition/blob/master/screenshots/TIM%E6%88%AA%E5%9B%BE20181016184905.png)
+gggg
 ![](https://github.com/hackersheng/Gesture-Recognition/blob/master/screenshots/TIM%E6%88%AA%E5%9B%BE20181016184916.png)
+gg
 ![](https://github.com/hackersheng/Gesture-Recognition/blob/master/screenshots/TIM%E6%88%AA%E5%9B%BE20181016184928.png)
+gg
 ![](https://github.com/hackersheng/Gesture-Recognition/blob/master/screenshots/TIM%E6%88%AA%E5%9B%BE20181016184938.png)
 
 
