@@ -1,5 +1,5 @@
 # Gesture-Recognition
-#简介
+##简介
 The device has two working modes: training and judgment.In decision mode, the experimental device can make decisions for the designated personnel in the guessing game and boxing game.Here, the judgment of the guessing game refers to the judgment of the sign of "stone", "scissors" and "cloth". The judgment of the boxing game refers to the judgment of the sign of "1", "2", "3", "4" and "5".In the training mode, we can carry out the gesture training for any person to play the guessing game and the boxing game.
 （This work is compiled using IAR8.0 / K60FX512VLQ15        Reference documentation:手势识别)  
 
